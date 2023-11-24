@@ -1,0 +1,12 @@
+# Visual Studio Code
+.vscode/
+
+# user-specific files
+bin/
+obj/
+
+# build results
+build/
+[Dd]ebug/
+x64/
+x86/
